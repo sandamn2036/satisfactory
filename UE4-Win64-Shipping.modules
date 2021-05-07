@@ -1,0 +1,10 @@
+{
+	"BuildId": "151248",
+	"Modules": 
+	{
+		"CoffeeCore": "UE4-CoffeeCore-Win64-Shipping.dll",
+		"FactoryGame": "UE4-FactoryGame-Win64-Shipping.dll",
+		"GameAnalyticsModule": "UE4-GameAnalyticsModule-Win64-Shipping.dll",
+		"SML": "UE4-SML-Win64-Shipping.dll"
+	}
+}
